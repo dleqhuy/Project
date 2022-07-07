@@ -7,7 +7,7 @@ __Telephone__ company, còn được gọi là __telco__, là nhà cung cấp d�
 
 ## Machine Learning và Data Science 
 
-Vì __Telco__ có rất nhiều khách hàng __subscribe__ (đăng ký) dịch vụ của họ, nên sẽ rất hữu ích nếu chúng ta có thể dự đoán liệu __customer__ có __churn__ (rời khỏi dịch vụ) trong khoảng thời gian vài ngày hay không. Hơn nữa, chúng ta có thể xem xét các yếu tố __influential__ (ảnh hưởng) đối với khách hàng chẳng hạn như __type of billing__ (loại thanh toán), __age__ và liệu họ có __partner__ hay không. Sau khi xem xét các yếu tố này và nhiều yếu tố khác ảnh hưởng đến sự rời bỏ của khách hàng, công ty có thể đưa ra các kế hoạch đảm bảo khách hàng không rời bỏ dịch vụ của họ.
+Vì __Telco__ có rất nhiều khách hàng __đăng ký__  dịch vụ của họ, nên sẽ rất hữu ích nếu chúng ta có thể dự đoán liệu __khách hàng__ có __rời khỏi dịch vụ__ trong khoảng thời gian vài ngày hay không. Hơn nữa, chúng ta có thể xem xét các yếu tố __ảnh hưởng__  đối với khách hàng chẳng hạn như __loại thanh toán__, __tuổi__ và liệu họ có __partner__ hay không. Sau khi xem xét các yếu tố này và nhiều yếu tố khác ảnh hưởng đến sự rời bỏ của khách hàng, công ty có thể đưa ra các kế hoạch đảm bảo khách hàng không rời bỏ dịch vụ của họ.
 
 Project này sử dụng các thuật toán như LogisticRegression, DecisionTreeClassifier, NaiveBayes, RandomForest để phân loại dữ liệu khách hàng có rời bỏ dịch vụ của công ty hay không
 
