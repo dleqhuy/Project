@@ -23,7 +23,6 @@ Project này sử dụng các thuật toán như LogisticRegression, DecisionTre
 
 Vì biến đầu ra là 0 hoặc 1, nó là một vấn đề __phân loại nhị phân__ với các khả năng là liệu khách hàng sẽ __churn__ hay __not churn__. Do đó, các chỉ số được xem xét cho vấn đề __classification__ như sau.
 * [__Accuracy__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html)
-* [__Logistic Loss__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.log_loss.html)
 * [__Precision__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_score.html)
 * [__Recall__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.recall_score.html)
 * [__F1 Score__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html)
