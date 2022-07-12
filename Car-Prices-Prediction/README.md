@@ -36,5 +36,5 @@ Dưới đây là một số quan sát được khám phá từ dữ liệu.
 
 ## Kết luận
 
-* Mô hình tốt nhất giảm thiểu __mean absolute error (MAE)__ là __Random Forest Regressor__.
+* Mô hình tốt nhất giảm thiểu __mean absolute error (MAE)__ và  __R2_SCORE__ là __Random Forest Regressor__.
 * __Phân tích khám phá dữ liệu (EDA)__ cho thấy giá của nhà sản xuất __Bugatti__ cao hơn đáng kể so với các nhà sản xuất khác.
