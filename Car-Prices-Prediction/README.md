@@ -9,13 +9,6 @@ Một trong những thách thức của doanh số bán xe hơi là chính là _
 Chúng ta sẽ làm việc với một dữ liệu khá lớn có chứa khoảng __10000__ các điểm dữ liệu
 https://www.kaggle.com/CooperUnion/cardataset
 
-## Metrics
-
-Dưới đây là __metrics__ đã được sử dụng trong quá trình dự đoán giá xe.
-
-* [__Mean Absolute Error (MAE)__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_absolute_error.html)
-* [__R2_SCORE__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html)
-
 ## Exploratory Data Analysis (EDA)
 
 Dưới đây là một số quan sát được khám phá từ dữ liệu.
@@ -23,16 +16,6 @@ Dưới đây là một số quan sát được khám phá từ dữ liệu.
 * Tổng số xe được sản xuất trong năm __2015__ là cao nhất trong tất cả các năm trong dữ liệu.
 * Có nhiều giá trị còn thiếu cho __Danh mục thị trường ('Market Category')__ và một vài giá trị còn thiếu cho các feature __'Engine HP'__ và __'Engine Cylinders' __.
 * Giá của nhà sản xuất __'Bugatti'__ rất cao so với các nhà sản xuất xe khác, giá trị __mã lực__ của xe cũng lớn hơn nhiều so với phần còn lại.
-
-## Machine Learning Models 
-
-
-| __Machine Learning Models__| __Mean Absolute Error__| __R2_SCORE__|
-| :-:| :-:| :-:|
-|Linear Regression|4208.7376|0.3496|
-|K Nearest Regressor|3534.0006|0.9714|
-|Decision Tree Regressor|3204.1490|0.9733|
-|Random Forest Regressor|__2961.8834__|__0.9805__|
 
 ## Kết luận
 
