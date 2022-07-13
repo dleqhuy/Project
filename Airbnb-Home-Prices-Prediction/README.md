@@ -2,7 +2,7 @@
 
 ## Giới thiệu
 
-Chúng ta có thể dự đoán giá nhà với sự trợ giúp của __machine Learning__ và __data science__. Bằng các features như __longitude__ và __latitude__ giúp xác định giá cùng với các features khác như khu phố (neighborhood) và nhu cầu về khu vực.
+Chúng ta có thể dự đoán giá nhà với sự trợ giúp của __Machine Learning__ và __Data Science__. Bằng các features như __longitude__ và __latitude__ giúp xác định giá cùng với các features khác như khu phố (neighborhood) và nhu cầu về khu vực.
 
 ## Exploratory Data Analysis (EDA)
 
